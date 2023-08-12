@@ -2,6 +2,8 @@
 Break ChatGPTs ethical and moral guidelines with jailbreak-gpt prompts.
 In order of effectiveness. Top is better prompts, bottom is worst prompts.
 
+## WARNING: THIS IS FOR FUN ONLY. THE CONTRIBUTORS HAVE NO RESPONSIBILITY FOR ANY ACTION OR THING THAT MAY OCCUR.
+
 
 
 <details>
